@@ -1,0 +1,23 @@
+{
+    "name": "wikichua/alert",
+    "description": "A simple alert messager for Laravel 4",
+    "authors": [
+        {
+            "name": "wikichu",
+            "email": "wikichua@gmail.com"
+        }
+    ],
+    "license": "BSD-2-Clause",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-0": {
+            "Wikichua\\Alert": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
