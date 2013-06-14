@@ -1,6 +1,6 @@
 {
     "name": "wikichua/alert",
-    "description": "A simple alert messager for Laravel 4",
+    "description": "A very simple alert messager for Laravel 4 with twitter bootstrap",
     "authors": [
         {
             "name": "wikichu",
